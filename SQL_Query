@@ -1,0 +1,3 @@
+import sqlite3
+
+conn = sqlite3.connect('nba_salaries.db') #creates SQL database
