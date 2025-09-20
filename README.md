@@ -17,7 +17,7 @@ Players above the trend line (blue) are delivering greater value relative to sal
 - [Future Work](#future-work)
 - [References](#references)
 - [Author](#author)
-- [Glossar](#glossary)
+- [Glossary](#glossary)
 
 Data was collected, cleaned, and merged to align salary and performance metrics.
 
@@ -79,4 +79,5 @@ Two important things to remember about PER are that it's per-minute and is pace-
 
 Kevin Rocha
 [LinkedIn](https://www.linkedin.com/in/kevinjrocha) – kevinrocha7216@gmail.com
+
 Check out my Tableau profile: https://public.tableau.com/app/profile/kevin.rocha6997/vizzes
