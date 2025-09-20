@@ -14,7 +14,6 @@ Players above the trend line (blue) are delivering greater value relative to sal
 - [Methodology](#methodology)
 - [How to Use](#how-to-use)
 - [Results & Insights](#results--insights)
-- [Future Work](#future-work)
 - [References](#references)
 - [Author](#author)
 - [Glossary](#glossary)
@@ -52,15 +51,11 @@ Use filters to explore players. Hover over points to see player's PER and salary
 ## Results & Insights
 
 [2025-26 Salary Vs. 2024-25 PER Rating](images/SalariesPERPlayersGraph.png)
-We were able to identify top value players exceeding expectations relative to their salary. It also highlighted players whose salaries may not align with on-court performance. The reader should always remember that this is only one single relationship that is explored in this - one of hundreds, if not thousands of types of analyses that are done to determine if player's are worth their merit. However, these types of insights can inform management decisions and analytics-driven evaluations.
-
 [Top 10 & Bottom 10 Players by Efficiency Residuals](images/TopBottomResidualsGraph.png)
 
-## Future Work
+We were able to identify top value players exceeding expectations relative to their salary. Names like Nikola Jokic, Luka Doncic, Lebron James, and Zion Williamson (unsurprisingly) are some that were providing efficiency beyond the average. Some surprise names, however, such as Mark Williams and Daniel Gafford showed up, making their case for being efficient parts of their teams.
 
-- Expand analysis to multi-year salary trends
-- Incorporate additional advanced metrics like Win Shares/48, VORP
-- Integrate predictive modeling for expected future performance
+It also highlighted players whose salaries may not align with on-court performance. The reader should always remember that this is only one single relationship that is explored in this - one of hundreds, if not thousands of types of analyses that are done to determine if player's are worth their merit. However, these types of insights can be an indicator to inform management decisions and analytics-driven evaluations.
 
 ## Glossary
 
